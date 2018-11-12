@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2018.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\radix_sort.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\radix_sort.dir/objects.a @CMakeFiles\radix_sort.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\radix_sort.dir/objects.a -Wl,--no-whole-archive  -o radix_sort.exe -Wl,--out-implib,libradix_sort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\radix_sort.dir\linklibs.rsp
